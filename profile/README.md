@@ -34,7 +34,7 @@
     	<td align="center">딸</td>
     	<td align="center">아들</td>
     	<td align="center">딸</td>
-    	<td align="center">아들</td>
-			<td align="center">딸</td>
+    	<td align="center">신문지할아버지/td>
+	<td align="center">딸</td>
   </tr>
 </table>
