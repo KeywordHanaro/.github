@@ -29,13 +29,13 @@
     	</td>	
   </tr>
   	<tr>
-    	<td align="center">팀장, Front-end/td>
-    	<td align="center">Front-end, Open API</td>
-    	<td align="center">Back-end, Open API</td>
+    	<td align="center">팀장<br>Front-end</td>
+    	<td align="center">Front-end<br>Open API</td>
+    	<td align="center">Back-end<br>Open API</td>
     	<td align="center">Front-end</td>
     	<td align="center">Back-end</td>
     	<td align="center">Back-end</td>
-	<td align="center">Back-end, CI/CD</td>
+	<td align="center">Back-end<br>CI/CD</td>
   </tr>
 </table>
 
