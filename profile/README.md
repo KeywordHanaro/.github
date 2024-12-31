@@ -55,7 +55,7 @@
 <img width="960" alt="image" src="https://github.com/user-attachments/assets/319017d9-ea5a-4e53-ab78-88d0a7d8c418" />
 
 # Youtube(이미지 클릭!)
-[!<img width="960" alt="image" src="https://github.com/user-attachments/assets/22be06a7-2de9-4e67-9501-07781b182922" />](https://youtu.be/7qPGTvHmEhM)
+[<img width="960" alt="image" src="https://github.com/user-attachments/assets/22be06a7-2de9-4e67-9501-07781b182922" />](https://youtu.be/7qPGTvHmEhM)
 <img width="960" alt="image" src="https://github.com/user-attachments/assets/7bfbbd66-cadd-4247-9e76-b1e189e05e3a" />
 <img width="960" alt="image" src="https://github.com/user-attachments/assets/6fa5d1d7-24fd-4d65-a6ad-41671ea71f4f" />
 <img width="960" alt="image" src="https://github.com/user-attachments/assets/cc353d1f-7629-431d-9d94-13b5565a7a64" />
